@@ -4,7 +4,7 @@ body {
   margin: 0 auto;
   font-size: 18px;
   padding-left: 20%;
-  padding-right: 50px;
+  padding-right: 20px;
   color: #111;
 }
 
@@ -35,7 +35,7 @@ header {
   -webkit-overflow-scrolling: touch;
   height: 100%;
   background: #fafafa;
-  max-width: 15%;
+  max-width: 25%;
   font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
   font-size: 15px;
   line-height: 30px;
